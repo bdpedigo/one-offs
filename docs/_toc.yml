@@ -1,0 +1,6 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Stuff
+    chapters: 
+      - file: test
