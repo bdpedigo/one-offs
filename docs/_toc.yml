@@ -3,4 +3,4 @@ root: intro
 parts:
   - caption: Stuff
     chapters: 
-      - file: test
+      - file: novelty_detection
